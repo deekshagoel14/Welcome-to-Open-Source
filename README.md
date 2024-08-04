@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/deekshagoel14">
+                    <img src="https://avatars.githubusercontent.com/u/43314320?v=4" width="100px;" alt="Deeksha Goel"/>
+                    <br />
+                    <sub><b>Deeksha Goel</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
